@@ -18,7 +18,7 @@ const Navbar = () =>{
                     <li><a href="index.html">Checo</a></li>
                     <li><a href="index.html">Fanwear</a></li>
                     <li><a href="index.html">Headwear</a></li>
-                    <li><a href="index.html">Purchase</a></li>
+                    <li><a href="index.html">Formulario</a></li>
                                         
                 </ul>
                 <CartWidget/>
