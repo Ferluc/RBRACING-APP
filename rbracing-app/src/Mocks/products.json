@@ -88,15 +88,14 @@
         "title":"Polo Driver Max Verstappen",
         "description":"Este polo Max Verstappen de manga corta, que forma parte de nuestra colección Oracle Red Bull Racing Replica, es un tributo al campeón mundial de Fórmula Uno de 2022. Con el nombre y el número de Verstappen, el diseño tiene un collar inteligente para refinar su apariencia en la pista.",
         "price":27600,
-        "categories":"Buzo",
+        "categories":"Remera",
         "size":["S","M","L","XL"],
         "image":"./Images/Verstappen/ss-polo-shirt-driver.PNG"
     },
     {
         "id":9,
         "title":"Remera Driver Max Verstappen",
-        "description":"
-        Imprescindible para los fanáticos de Max Verstappen, esta camiseta de nuestra colección Oracle Red Bull Racing Replica te permite lucir una figura informal mientras muestras tu apoyo a tu piloto de carreras de F1 favorito.",
+        "description":"Imprescindible para los fanáticos de Max Verstappen, esta camiseta de nuestra colección Oracle Red Bull Racing Replica te permite lucir una figura informal mientras muestras tu apoyo a tu piloto de carreras de F1 favorito.",
         "price":21700,
         "categories":"Remera",
         "size":["S","M","L","XL"],
@@ -228,6 +227,6 @@
         "price":5900,
         "categories":"Taza",
         "size":[1],
-        "image":"./Images/Verstappen/taza ch.PNG"
+        "image":"./Images/Checo/taza ch.PNG"
     }
 ]

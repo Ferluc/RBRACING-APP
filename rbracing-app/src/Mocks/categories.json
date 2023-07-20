@@ -1,0 +1,273 @@
+[
+    {
+        "id":20,
+        "category":"Buzos",
+        "products":[
+            {
+                "id":1,
+                "title":"Buzo Max Verstappen Night Sky ",
+                "description":"Incluso los campeones de Fórmula Uno tienen días de descanso. Muestre su apoyo al campeón mundial de Oracle Red Bull Racing, Max Verstappen, con la sudadera con capucha de nuestra colección Oracle Red Bull Racing Core Driver, con una capucha cepillada en la parte superior para una protección cómoda",
+                "price":23600,
+                "categories":"Buzo",
+                "size":["S","M","L","XL"],
+                "img":"./Images/Verstappen/Buzo-mv-black1.PNG"
+            },
+            {
+                "id":2,
+                "title":"Buzo Max Verstappen Black",
+                "description":"Esta sudadera con capucha de Max Verstappen de nuestra colección Oracle Red Bull Racing Core Driver es verdaderamente una pieza atemporal del equipo y le permite rendir homenaje a uno de los mayores talentos de la Fórmula Uno. Un ajuste de gran tamaño ofrece niveles máximos de comodidad, con los logotipos de Oracle Red Bull Racing y Verstappen para completar el look.",
+                "price":23600,
+                "categories":"Buzo",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/Buzo-mv-black2.PNG"
+            },
+            
+            {
+                "id":3,
+                "title":"Buzo Driver Max Verstappen",
+                "description":"Confeccionada con un material suave y una capucha cepillada en la parte superior, esta sudadera con capucha de Max Verstappen se convertirá rápidamente en una prenda indispensable para tus días fríos. El diseño presenta los logotipos de Oracle Red Bull Racing y Verstappen para que puedas lucir tu lealtad con orgullo.",
+                "price":23600,
+                "categories":"Buzo",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/Buzo-mv-orange.PNG"
+            },
+            {
+                "id":8,
+                "title":"Polo Driver Max Verstappen",
+                "description":"Este polo Max Verstappen de manga corta, que forma parte de nuestra colección Oracle Red Bull Racing Replica, es un tributo al campeón mundial de Fórmula Uno de 2022. Con el nombre y el número de Verstappen, el diseño tiene un collar inteligente para refinar su apariencia en la pista.",
+                "price":27600,
+                "categories":"Buzo",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/ss-polo-shirt-driver.PNG"
+            },
+            {
+                "id":13,
+                "title":"Buzo Driver Checo Perez",
+                "description":"Este polo Max Verstappen de manga corta, que forma parte de nuestra colección Oracle Red Bull Racing Replica, es un tributo al campeón mundial de Fórmula Uno de 2022. Con el nombre y el número de Verstappen, el diseño tiene un collar inteligente para refinar su apariencia en la pista.",
+                "price":23600,
+                "categories":"Buzo",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Checo/Buzo-ch.PNG"
+            }
+        ]
+    },
+    {
+        "id":21,
+        "category":"Remera",
+        "products":[
+            {
+                "id":6,
+                "title":"Remera Fan Max Verstappen",
+                "description":"Esta camiseta de Max Verstappen de nuestra colección Oracle Red Bull Racing Core Driver es la manera perfecta de mostrar tu apoyo a uno de los campeones de la Fórmula Uno mientras te mantienes a la moda. Con los logotipos de Oracle Red Bull Racing y Verstappen, está diseñado con un ajuste extragrande para tu comodidad.",
+                "price":11400,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/Shirt-mv 2.PNG"
+            },
+            {
+                "id":7,
+                "title":"Buzo Fan 2 Max Verstappen",
+                "description":"Esta camiseta Max Verstappen de nuestra colección Oracle Red Bull Racing Core Driver crea un look deportivo de alta calidad, con logotipos en el cuello, la manga y el pecho para ayudarlo a mostrar su apoyo con estilo.",
+                "price":11400,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/Shirt-mv .PNG"
+            },
+            {
+                "id":8,
+                "title":"Polo Driver Max Verstappen",
+                "description":"Este polo Max Verstappen de manga corta, que forma parte de nuestra colección Oracle Red Bull Racing Replica, es un tributo al campeón mundial de Fórmula Uno de 2022. Con el nombre y el número de Verstappen, el diseño tiene un collar inteligente para refinar su apariencia en la pista.",
+                "price":27600,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/ss-polo-shirt-driver.PNG"
+            },
+            {
+                "id":9,
+                "title":"Remera Driver Max Verstappen",
+                "description":"Imprescindible para los fanáticos de Max Verstappen, esta camiseta de nuestra colección Oracle Red Bull Racing Replica te permite lucir una figura informal mientras muestras tu apoyo a tu piloto de carreras de F1 favorito.",
+                "price":21700,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/T-shirt drive.PNG"
+            },
+            {
+                "id":10,
+                "title":"Women Driver Max Verstappen",
+                "description":"Imprescindible para los fanáticos de Max Verstappen, esta camiseta de nuestra colección Oracle Red Bull Racing Replica te permite lucir una figura informal mientras muestras tu apoyo a tu piloto de carreras de F1 favorito.",
+                "price":21700,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/womens-t-shirt drivers.PNG"
+            },
+            {
+                "id":11,
+                "title":"Polo Women Driver Max Verstappen",
+                "description":"Este polo Max Verstappen de manga corta, que forma parte de nuestra colección Oracle Red Bull Racing Replica, es un tributo al campeón mundial de Fórmula Uno de 2022. Con el nombre y el número de Verstappen, el diseño tiene un collar inteligente para refinar su apariencia en la pista.",
+                "price":27600,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Verstappen/Womens-ss-polo-shirt drivers.PNG"
+            },
+            {
+                "id":16,
+                "title":"Remera Fan Driver Checo Perez",
+                "description":"Muestra tu apoyo al piloto de carreras de Fórmula Uno con esta elegante camiseta de manga corta de Checo Pérez. Como parte de nuestra colección Core Driver de Oracle Red Bull Racing, la camiseta presenta la marca clásica de Oracle Red Bull Racing, así como el logotipo de Pérez.",
+                "price":11400,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Checo/shirt-ch.PNG"
+            },
+            {
+                "id":17,
+                "title":"Polo Women Driver Checo Perez",
+                "description":"Este polo, que forma parte de nuestra colección Oracle Red Bull Racing Replica, presenta el nombre y el número del piloto de Fórmula 1 Checo Pérez. Lleve su nombre y número con orgullo.",
+                "price":21700,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Checo/Womens-ss-polo-shirt drivers.PNG"
+            },
+            {
+                "id":18,
+                "title":"Polo Driver Checo Perez",
+                "description":"Este polo, que forma parte de nuestra colección Oracle Red Bull Racing Replica, presenta el nombre y el número del piloto de Fórmula 1 Sergio Pérez. Lleve su nombre y número con orgullo.",
+                "price":27600,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Checo/ss-polo-shirt ch.PNG"
+            },
+            {
+                "id":19,
+                "title":"Remera Driver Checo Perez",
+                "description":"Con el nombre y el número de Sergio Pérez, esta camiseta de nuestra colección Oracle Red Bull Racing Replica es fácil de poner cuando necesitas una capa deportiva pero elegante.",
+                "price":21700,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Checo/T-shirt.PNG"
+            },
+            {
+                "id":20,
+                "title":"Remera Women Driver Checo Perez",
+                "description":"Con el nombre y el número de Sergio Pérez, esta camiseta de nuestra colección Oracle Red Bull Racing Replica es fácil de poner cuando necesitas una capa deportiva pero elegante.",
+                "price":21700,
+                "categories":"Remera",
+                "size":["S","M","L","XL"],
+                "image":"./Images/Checo/Womens-t-shirt-ch.PNG"
+            }
+
+        ]
+    },
+    {
+        "id":22,
+        "category":"Gorra",
+        "products":[
+            {
+                "id":4,
+                "title":"Gorra Driver Max Verstappen",
+                "description":"Haga alarde de su orgullo al máximo esta temporada con esta llamativa gorra snapback.
+        
+                Gorra snapback precurva 9FIFTY de New Era
+                Unisexo
+                Visera precurvada con ribete en contraste
+                Corona completa y ancha con paneles estructurados, ojales bordados, paneles medios sublimados y barras de carga bordadas en la parte trasera
+                Cierre a presión ajustable en la parte trasera
+                Número de piloto de Max Verstappen y parche de goma Oracle Red Bull Racing en color en la parte delantera de la corona
+                Logotipos de CarNext en los laterales
+                Bandera holandesa en la parte trasera
+                Bandera de New Era bordada en la visera
+                Material: 100% Poliéster",
+                "price":16600,
+                "categories":"Gorra",
+                "size":["S/M","M/L"],
+                "image":"./Images/Verstappen/Gorra mv.PNG"
+            },
+            {
+                "id":14,
+                "title":"Gorra Driver Checo Perez",
+                "description":"¡Vamos Checo! Alimenta tu orgullo esta temporada con esta llamativa gorra snapback.
+        
+                Gorra snapback 9FORTY de New Era
+                Unisexo
+                Visera curva con ribete en contraste
+                Corona estructurada de seis paneles con ojales bordados, paneles medios sublimados y barras de carga bordadas en la parte trasera
+                Cierre a presión ajustable en la parte trasera
+                Número de piloto de Checo Pérez y parche de goma Oracle Red Bull Racing en color en la corona delantera
+                Logotipo de Telcel en el lateral.
+                bandera de mexico en la parte de atras
+                Bandera de New Era bordada en el lateral
+                Material: 100% Poliéster",
+                "price":16600,
+                "categories":"Gorra",
+                "size":["S/M","M/L"],
+                "image":"./Images/Checo/gorra ch.PNG"
+            }
+        ]
+    },
+    {
+        "id":23,
+        "category":"Gorro",
+        "products":[
+            {
+                "id":5,
+                "title":"Gorro Driver Max Verstappen",
+                "description":"¿Día frío? Manténgase abrigado con este gorro con pompones en los colores del equipo, con detalles de Verstappen.
+        
+                Gorro de punto con borlas de New Era para jóvenes
+                Corona de punto con patrón de ingeniería.
+                puño vuelto hacia arriba
+                Pompón clásico en la parte superior
+                Número de piloto de Max Verstappen bordado y logotipo del patrocinador en el puño
+                Parche de goma con el logotipo de Oracle Red Bull en la parte delantera del puño
+                Bandera de New Era bordada en el puño
+                Material: 100% Poliéster",
+                "price":11100,
+                "categories":"Gorro",
+                "size":[1],
+                "image":"./Images/Verstappen/Gorro mv.PNG"
+            },
+            {
+                "id":15,
+                "title":"Gorro Driver Checo Perez",
+                "description":"¿Día frío? Manténgase abrigado con este gorro con pompones en los colores del equipo, con detalles de Checo.
+        
+                Gorro de punto con borlas de New Era para jóvenes
+                Corona de punto con patrón de ingeniería.
+                puño vuelto hacia arriba
+                Pompón clásico en la parte superior
+                Número de piloto de Checo Pérez y logotipo del patrocinador bordados en el puño.
+                Parche de goma con el logotipo de Oracle Red Bull en la parte delantera del puño
+                Bandera de New Era bordada en el puño
+                Material: 100% Poliéster",
+                "price":11100,
+                "categories":"Gorro",
+                "size":[1],
+                "image":"./Images/Checo/Womens-ss-polo-shirt drivers.PNG"
+            }
+        ]
+    },
+    {
+        "id":24,
+        "category":"Taza",
+        "products":[
+            {
+                "id":12,
+                "title":"Taza Driver Max Verstappen",
+                "description":"Celebra tu amor por las carreras con nuestra taza oficial de Red Bull Max Verstappen. El diseño está impreso en el icónico tono naranja del campeón de Fórmula Uno, completo con las iniciales de Verstappen, para que todos sepan dónde reside tu lealtad. Su acabado cerámico mate asegura que mantendrá su calidad, aunque recomendamos lavarlo a mano para proteger el diseño.",
+                "price":5900,
+                "categories":"Taza",
+                "size":["1"],
+                "image":"./Images/Verstappen/taza-mv.PNG"
+            },
+            {
+                "id":21,
+                "title":"Taza Driver Checo Perez",
+                "description":"Esta taza Checo, que forma parte de nuestra colección oficial Oracle Red Bull Racing, es el regalo perfecto para los amantes de los deportes de motor. Impreso en el color verde clásico de Checo, completo con las iniciales del favorito de Fórmula Uno, la taza tiene un acabado mate de cerámica de primera calidad para una calidad duradera.",
+                "price":5900,
+                "categories":"Taza",
+                "size":[1],
+                "image":"./Images/Checo/taza ch.PNG"
+            }
+        ]
+    }
+
+]
